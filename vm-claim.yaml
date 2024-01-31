@@ -1,6 +1,0 @@
-apiVersion: compute.example.com/v1alpha1
-kind: VirtualMachine
-metadata:
-  name: my-vm-31st-jan
-spec: 
-  location: "EU"
